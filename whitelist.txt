@@ -10,15 +10,16 @@ Instagram
 StoriesIGBridge
 
 SteamBridge
-SteamCommunity
+SteamCommunityEXCLUDE
 
 PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
 
-PatreonBridge
+PatreonBridgeEXCLUDE
 "SoundcloudBridge"EXCLUDE
 FDroidEXCLUDE
+DuckDuckGoBridge
 
 "HDWallpapersBridge"LOWRESOLUTION
 WallpaperStopBridge
@@ -30,10 +31,11 @@ FlickrBridge
 "GiphyBridge"DONTWORK
 
 HentaiHavenEXCLUDE
+PornhubBridge
 
 Rule34LOWRESOLUTION
 Rule34pahealDONTWORK
-YandereEXCLUDE
+Yandere
 LolibooruLOWRESOLUTION
 SafebooruLOWRESOLUTION
 TbibLOWRESOLUTION
