@@ -1,7 +1,7 @@
 OneFortuneaDay
 Filter
 
-Twitter
+TwitterEXCLUDE
 "Facebook"EXCLUDE
 VkBridge
 TelegramBridge
