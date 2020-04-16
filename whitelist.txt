@@ -31,11 +31,11 @@ FlickrBridge
 "GiphyBridge"DONTWORK
 
 HentaiHavenEXCLUDE
-PornhubBridge
+PornhubBridgeEXCLUDE
 
 Rule34LOWRESOLUTION
 Rule34pahealDONTWORK
-Yandere
+YandereDONTWORKINRUSSIA
 LolibooruLOWRESOLUTION
 SafebooruLOWRESOLUTION
 TbibLOWRESOLUTION
