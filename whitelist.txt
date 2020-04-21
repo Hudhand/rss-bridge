@@ -19,11 +19,11 @@ RedditBridge
 PatreonBridgeEXCLUDE
 "SoundcloudBridge"EXCLUDE
 FDroidEXCLUDE
-DuckDuckGoBridge
+DuckDuckGoBridgeEXCLUDE
 
 "HDWallpapersBridge"LOWRESOLUTION
-WallpaperStopBridge
-PickyWallpapersBridgeEXCLUDE
+WallpaperStopBridgeEXCLUDE
+"PickyWallpapersBridge"EXCLUDE
 "UnsplashBridge"LOWRESOLUTION
 
 "PixivBridge"DONTWORK
@@ -31,7 +31,7 @@ FlickrBridge
 "GiphyBridge"DONTWORK
 
 HentaiHavenEXCLUDE
-PornhubBridgeEXCLUDE
+"PornhubBridge"EXCLUDE
 
 Rule34LOWRESOLUTION
 Rule34pahealDONTWORK
