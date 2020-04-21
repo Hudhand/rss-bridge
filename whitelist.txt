@@ -19,7 +19,7 @@ RedditBridge
 PatreonBridgeEXCLUDE
 "SoundcloudBridge"EXCLUDE
 FDroidEXCLUDE
-DuckDuckGoBridgeEXCLUDE
+"DuckDuckGoBridge"EXCLUDE
 
 "HDWallpapersBridge"LOWRESOLUTION
 WallpaperStopBridgeEXCLUDE
