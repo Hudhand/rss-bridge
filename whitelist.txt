@@ -7,7 +7,7 @@ VkBridge
 TelegramBridge
 
 Instagram
-StoriesIGBridge
+"StoriesIGBridge"DONTWORK
 
 "SteamBridge"EXCLUDE
 "SteamCommunity"EXCLUDE
