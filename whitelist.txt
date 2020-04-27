@@ -9,7 +9,7 @@ TelegramBridge
 Instagram
 StoriesIGBridge
 
-SteamBridge
+"SteamBridge"EXCLUDE
 "SteamCommunity"EXCLUDE
 
 PikabuBridge
