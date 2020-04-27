@@ -16,7 +16,7 @@ PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
 
-"PatreonBridge"EXCLUDE
+PatreonBridge
 "SoundcloudBridge"EXCLUDE
 FDroidEXCLUDE
 "DuckDuckGoBridge"EXCLUDE
