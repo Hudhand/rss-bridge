@@ -1,7 +1,7 @@
 OneFortuneaDay
 Filter
 
-TwitterEXCLUDE
+Twitter
 "Facebook"EXCLUDE
 VkBridge
 TelegramBridge
@@ -10,19 +10,19 @@ Instagram
 StoriesIGBridge
 
 SteamBridge
-SteamCommunityEXCLUDE
+"SteamCommunity"EXCLUDE
 
 PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
 
-PatreonBridgeEXCLUDE
+"PatreonBridge"EXCLUDE
 "SoundcloudBridge"EXCLUDE
 FDroidEXCLUDE
 "DuckDuckGoBridge"EXCLUDE
 
 "HDWallpapersBridge"LOWRESOLUTION
-WallpaperStopBridgeEXCLUDE
+"WallpaperStopBridge"EXCLUDE
 "PickyWallpapersBridge"EXCLUDE
 "UnsplashBridge"LOWRESOLUTION
 
