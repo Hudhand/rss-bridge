@@ -28,7 +28,7 @@ FDroidEXCLUDE
 
 "PixivBridge"DONTWORK
 FlickrBridge
-"GiphyBridge"DONTWORK
+GiphyBridge
 
 HentaiHavenEXCLUDE
 "PornhubBridge"EXCLUDE
