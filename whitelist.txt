@@ -12,6 +12,9 @@ Instagram
 "SteamBridge"EXCLUDE
 "SteamCommunity"EXCLUDE
 
+DuckDuckGo
+GoogleSearch
+
 PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
