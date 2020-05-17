@@ -12,8 +12,8 @@ Instagram
 "SteamBridge"EXCLUDE
 "SteamCommunity"EXCLUDE
 
-DuckDuckGo
-GoogleSearch
+"DuckDuckGo"EXCLUDE
+"GoogleSearch"EXCLUDE
 
 PikabuBridge
 RedditBridge
