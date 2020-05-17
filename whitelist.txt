@@ -16,6 +16,8 @@ PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
 
+PinterestBridge
+
 PatreonBridge
 "SoundcloudBridge"EXCLUDE
 FDroidEXCLUDE
