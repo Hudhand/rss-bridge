@@ -20,11 +20,9 @@ PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
 
-
 PatreonBridge
 "SoundcloudBridge"EXCLUDE
 FDroidEXCLUDE
-"DuckDuckGoBridge"EXCLUDE
 
 "HDWallpapersBridge"LOWRESOLUTION
 "WallpaperStopBridge"EXCLUDE
@@ -39,7 +37,7 @@ HentaiHavenEXCLUDE
 "PornhubBridge"EXCLUDE
 YouTubeBridge
 
-Rule34
+Rule34LOWRESOLUTION
 Rule34pahealDONTWORK
 YandereLOWRESOLUTION
 LolibooruLOWRESOLUTION
