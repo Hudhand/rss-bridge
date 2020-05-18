@@ -8,6 +8,7 @@ TelegramBridge
 
 Instagram
 "StoriesIGBridge"DONTWORK
+"PinterestBridge"EXCLUDE
 
 "SteamBridge"EXCLUDE
 "SteamCommunity"EXCLUDE
@@ -19,7 +20,6 @@ PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
 
-PinterestBridge
 
 PatreonBridge
 "SoundcloudBridge"EXCLUDE
@@ -41,7 +41,7 @@ YouTubeBridge
 
 Rule34LOWRESOLUTION
 Rule34pahealDONTWORK
-YandereDONTWORKINRUSSIA
+Yandere
 LolibooruLOWRESOLUTION
 SafebooruLOWRESOLUTION
 TbibLOWRESOLUTION
