@@ -8,7 +8,7 @@ TelegramBridge
 
 Instagram
 "StoriesIGBridge"DONTWORK
-"PinterestBridge"EXCLUDE
+PinterestBridge
 
 "SteamBridge"EXCLUDE
 "SteamCommunity"EXCLUDE
