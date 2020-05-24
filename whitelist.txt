@@ -19,7 +19,6 @@ PinterestBridge
 PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
-NationalGeographicBridge
 
 PatreonBridge
 "SoundcloudBridge"DONTWORK
@@ -40,7 +39,7 @@ YouTubeBridge
 
 Rule34LOWRESOLUTION
 Rule34pahealDONTWORK
-Yandere
+YandereHASownRSS
 LolibooruLOWRESOLUTION
 SafebooruLOWRESOLUTION
 TbibLOWRESOLUTION
