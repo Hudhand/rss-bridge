@@ -21,7 +21,7 @@ RedditBridge
 (only last has VERYLOWRESOLUTION)
 
 PatreonBridge
-SoundcloudBridge
+"SoundcloudBridge"DONTWORK
 FDroidEXCLUDE
 
 "HDWallpapersBridge"LOWRESOLUTION
