@@ -19,6 +19,7 @@ PinterestBridge
 PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
+NationalGeographicBridge
 
 PatreonBridge
 "SoundcloudBridge"DONTWORK
