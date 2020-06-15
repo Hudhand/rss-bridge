@@ -35,7 +35,7 @@ FlickrBridge
 
 HentaiHavenEXCLUDE
 "PornhubBridge"EXCLUDE
-YouTubeBridge
+"YouTubeBridge"EXCLUDE
 
 Rule34LOWRESOLUTION
 Rule34pahealDONTWORK
