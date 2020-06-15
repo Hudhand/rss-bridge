@@ -1,7 +1,7 @@
 OneFortuneaDay
 Filter
 
-Twitter
+"Twitter"DONTWORK
 "Facebook"EXCLUDE
 VkBridge
 TelegramBridge
@@ -20,7 +20,7 @@ PikabuBridge
 RedditBridge
 (only last has VERYLOWRESOLUTION)
 
-PatreonBridge
+"PatreonBridge"EXCLUDE
 "SoundcloudBridge"DONTWORK
 FDroidEXCLUDE
 
