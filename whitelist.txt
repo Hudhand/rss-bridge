@@ -12,6 +12,7 @@ PinterestBridge
 
 "SteamBridge"EXCLUDE
 "SteamCommunity"EXCLUDE
+EpicGamesBridge
 
 "DuckDuckGo"EXCLUDE
 "GoogleSearch"EXCLUDE
